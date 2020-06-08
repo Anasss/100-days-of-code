@@ -1,30 +1,34 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Joining this challenge !
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+I decided to join this challenge to improve my technical skills and learn new cool stuff.
+I'm currently working on my personal Blog/Portfolio and there is a lot of stuff that I'm interested in:
+<ul>
+<li>Software Craftsmanship, Code Kata</li>
+<li>Front end frameworks: React, Vue JS</li>
+<li>CodinGame, AI, Graph & Optimization Algorithms</li>
+<li>Docker, Kubernetes, Terraform, Ansible</li>
+</ul> 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+I will divide this challenge into 10 parts of 10 days, I will put different objectives in each part but the general idea of 
+the challenge remains the same, I will update this page every day with my progress!
 
-**Link to work:** [Calculator App](http://www.example.com)
+##Part I : 08/06 - 17/06
+* Finishing my Blog/Portfolio
+* Complete Docker and Kubernetes trainings:
+    * https://www.linkedin.com/learning/learning-docker-2
+    * https://www.linkedin.com/learning/learning-kubernetes 
+* Solving one medium puzzle on CodinGame https://www.codingame.com/
+* Solving one code Kata http://codekata.com/
+* Start reading the pragmatic programmer: Finishing chapter 1: A Pragmatic Philosophy https://learning.oreilly.com/library/view/the-pragmatic-programmer/ 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 0: June 08, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** 
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
