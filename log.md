@@ -14,7 +14,7 @@ I'm currently working on my personal Blog/Portfolio and there is a lot of stuff 
 I will divide this challenge into 10 parts of 10 days, I will put different objectives in each part but the general idea of 
 the challenge remains the same, I will update this page every day with my progress!
 
-##Part I : 08/06 - 17/06
+## Part I : 08/06 - 17/06 :dart:
 * Finishing my Blog/Portfolio
 * Complete Docker and Kubernetes trainings:
     * https://www.linkedin.com/learning/learning-docker-2
