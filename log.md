@@ -22,19 +22,27 @@ the challenge remains the same, I will update this page every day with my progre
 * Solving one medium puzzle on CodinGame https://www.codingame.com/
 * Solving one code Kata http://codekata.com/
 * Start reading the pragmatic programmer: Finishing chapter 1: A Pragmatic Philosophy https://learning.oreilly.com/library/view/the-pragmatic-programmer/ 
-* Solve one LeetCode per day!
+* Solve at least one LeetCode per day!
 
 ### Day 0: June 08, 2020
 
 **Today's Progress**:
 * Started Docker course on LI, install it and started playing a bit with it! Chapter 2 so far! https://www.linkedin.com/learning/learning-docker-2/the-docker-flow-containers-to-images?u=75507506
-* LeetCode of the day: https://leetcode.com/problems/split-a-string-in-balanced-strings/submissions/
+* - [x] LeetCode
 
 **Thoughts:** 
 It's probably better to do it early in the morning as I was a bit tired after work!
 I displayed both hints to solve the leetcode, I should take more time before using them!
 
-**Link to work:** 
-N/A
+### Day 1: June 09, 2020
+
+**Today's Progress**:
+* A full leetCode session, solved 4!
+* - [x] LeetCode
+
+**Thoughts:** 
+4 easy problems, including 2 well optimized solutions
+I should always consider optmization (reducing complexity) more after coding a working solution!
+I should also work on my porfolio in order to finish ii in the first part of this challenge!
 
 
