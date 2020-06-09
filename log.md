@@ -41,8 +41,8 @@ I displayed both hints to solve the leetcode, I should take more time before usi
 * - [x] LeetCode
 
 **Thoughts:** 
-4 easy problems, including 2 well optimized solutions
-I should always consider optmization (reducing complexity) more after coding a working solution!
-I should also work on my porfolio in order to finish ii in the first part of this challenge!
+4 easy problems, including 2 well optimized solutions.
+I should always consider optmization (reducing complexity) after coding a working solution and compare mine to the submitted ones!
+Felt bad not working on my portfolio, I'll need to finish it in the first part of this challenge!
 
 
