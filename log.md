@@ -45,7 +45,7 @@ I displayed both hints to solve the leetcode, I should take more time before usi
 I should always consider optmization (reducing complexity) after coding a working solution and compare mine to the submitted ones!
 Felt bad not working on my portfolio, I'll need to finish it in the first part of this challenge!
 
-### Day 3: June 09, 2020
+### Day 3: June 10, 2020
 
 **Today's Progress**:
 * Worked on my protfolio!
@@ -55,5 +55,16 @@ Felt bad not working on my portfolio, I'll need to finish it in the first part o
 I still some fixes/features before having a first clean version as I imagine it!
 Next features: Use Typed.js | Animate the background (Video?) | CSS Display for skills 
 I should pick more hard problems on leetCode!
+
+### Day 4: June 11, 2020
+
+**Today's Progress**:
+* Worked on my protfolio!
+* Started reading the prgamatic programmer
+* - [x] LeetCode
+
+**Thoughts:** 
+The pragmatic programmer is an interesting read, looking forward to discovering more!
+Spent 25 minutes(Pomodoro technique) on a leetcode problem (Still not solved)
 
 
