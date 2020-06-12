@@ -67,4 +67,13 @@ I should pick more hard problems on leetCode!
 The pragmatic programmer is an interesting read, looking forward to discovering more!
 Spent 25 minutes(Pomodoro technique) on a leetcode problem (Still not solved)
 
+### Day 5: June 12, 2020
+
+**Today's Progress**:
+* LeetCode session
+* - [x] LeetCode
+
+**Thoughts:** 
+Solved an easy leetCode and stuck for almost 30 min in this one : https://leetcode.com/problems/count-and-say/
+In the easy category, however, it was hard for me to understand the problem, took me a lot of time to understand the pattern and find an initial brute force solution! Still not coded yet!
 
