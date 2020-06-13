@@ -77,3 +77,13 @@ Spent 25 minutes(Pomodoro technique) on a leetcode problem (Still not solved)
 Solved an easy leetCode and stuck for almost 30 min in this one : https://leetcode.com/problems/count-and-say/
 In the easy category, however, it was hard for me to understand the problem, took me a lot of time to understand the pattern and find an initial brute force solution! Still not coded yet!
 
+### Day 6: June 13, 2020
+
+**Today's Progress**:
+* Pramp session
+* - [x] LeetCode (using Pramp)
+
+**Thoughts:** 
+Discovered Pramp (https://www.pramp.com/dashboard#/)
+I enjoyed interviewing and being interviewed by another software engineer. I'll probably do more pramp sessions in the future even if it takes more time (2hours)
+
