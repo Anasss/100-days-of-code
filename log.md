@@ -85,5 +85,16 @@ In the easy category, however, it was hard for me to understand the problem, too
 
 **Thoughts:** 
 Discovered Pramp (https://www.pramp.com/dashboard#/)
-I enjoyed interviewing and being interviewed by another software engineer. I'll probably do more pramp sessions in the future even if it takes more time (2hours)
+I enjoyed interviewing and being interviewed by another software engineer. I'll probably do more pramp sessions in the future even if it takes more time (up to 2hours)
+
+### Day 7: June 14, 2020
+
+**Today's Progress**:
+* Pramp session
+* - [x] LeetCode (using Pramp)
+
+**Thoughts:** 
+Another pramp session (https://www.pramp.com/dashboard#/)
+What I also like about pramp is receiving feedback from the interviewer at the end of the interview! the history of my performances is available here https://www.pramp.com/dashboard#/feedback/yBZp8El636fNYZ6WElvJ
+
 
