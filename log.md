@@ -97,4 +97,24 @@ I enjoyed interviewing and being interviewed by another software engineer. I'll 
 Another pramp session (https://www.pramp.com/dashboard#/)
 What I also like about pramp is receiving feedback from the interviewer at the end of the interview! the history of my performances is available here https://www.pramp.com/dashboard#/feedback/yBZp8El636fNYZ6WElvJ
 
+### Day 8: June 15, 2020
+
+**Today's Progress**:
+* Pramp session
+* - [x] LeetCode (using Pramp)
+
+**Thoughts:** 
+Another pramp session (https://www.pramp.com/dashboard#/)
+I was very unmotivated and a bit tired after work... I wanted to cancel this session but I pushed my self and did it!
+Very useful and interesting problem and feedback. I managed to code a working solution with some few hints. However, I should consider space & time complexity. I couldn't figure out the optimized solution!
+* Feedback:
+   * I should practice coding speed!
+   * Optimization and improving time & space complexity using the adapted DS!
+
+**Useful Links:**
+Some tips to improve coding speed: http://blog.gainlo.co/index.php/2016/08/01/improved-coding-speed-one-week/?utm_campaign=quora&utm_medium=How+important+is+the+coding+speed?+Can+I+still+get+a+development+job+if+I+code+slowly?&utm_source=quora
+
+
+
+
 
