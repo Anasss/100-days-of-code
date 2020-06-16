@@ -106,7 +106,7 @@ What I also like about pramp is receiving feedback from the interviewer at the e
 **Thoughts:** 
 Another pramp session (https://www.pramp.com/dashboard#/)
 I was very unmotivated and a bit tired after work... I wanted to cancel this session but I pushed my self and did it!
-Very useful and interesting problem and feedback. I managed to code a working solution with some few hints. However, I should consider space & time complexity. I couldn't figure out the optimized solution!
+Very useful and interesting problem and feedback. I managed to code a working solution with a few hints. However, I should consider space & time complexity. I couldn't figure out the optimized solution!
 * Feedback:
    * I should practice coding speed!
    * Optimization and improving time & space complexity using the adapted DS!
@@ -114,7 +114,15 @@ Very useful and interesting problem and feedback. I managed to code a working so
 **Useful Links:**
 Some tips to improve coding speed: http://blog.gainlo.co/index.php/2016/08/01/improved-coding-speed-one-week/?utm_campaign=quora&utm_medium=How+important+is+the+coding+speed?+Can+I+still+get+a+development+job+if+I+code+slowly?&utm_source=quora
 
+### Day 9: June 16, 2020
 
+**Today's Progress**:
+* 3 Clashs of code and started a CG puzzle!
+* - [x] LeetCode -> Not solved
+
+**Thoughts:** 
+A clash of code session and I started a CG puzzle! 
+A bit unmotivated to code today but I really wanted to complete this challenge so I pushed my self and I did it!
 
 
 
