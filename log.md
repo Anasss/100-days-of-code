@@ -124,5 +124,13 @@ Some tips to improve coding speed: http://blog.gainlo.co/index.php/2016/08/01/im
 A clash of code session and I started a CG puzzle! 
 A bit unmotivated to code today but I really wanted to complete this challenge so I pushed my self and I did it!
 
+### Day 10: June 17, 2020
+
+**Today's Progress**:
+* CG CoC
+* - [ ] LeetCode -> No time for a LC today :( 
+
+**Thoughts:** 
+A CG classic COC session!
 
 
