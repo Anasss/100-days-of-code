@@ -133,7 +133,7 @@ A bit unmotivated to code today but I really wanted to complete this challenge s
 **Thoughts:** 
 A CG classic COC session!
 
-### Day 10: June 17, 2020
+### Day 11: June 18, 2020
 
 **Today's Progress**:
 * CG CoC
