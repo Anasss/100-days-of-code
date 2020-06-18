@@ -128,9 +128,17 @@ A bit unmotivated to code today but I really wanted to complete this challenge s
 
 **Today's Progress**:
 * CG CoC
-* - [ ] LeetCode -> No time for a LC today :( 
+* - [x] LeetCode
 
 **Thoughts:** 
 A CG classic COC session!
 
+### Day 10: June 17, 2020
+
+**Today's Progress**:
+* CG CoC
+* - [ ] LeetCode -> No time for a LC today! 
+
+**Thoughts:** 
+A CG classic COC session!
 
