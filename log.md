@@ -142,3 +142,12 @@ A CG classic COC session!
 **Thoughts:** 
 A CG classic COC session!
 
+### Day 12: June 19, 2020
+
+**Today's Progress**:
+* LeetCode session!
+* - [X] LeetCode  
+
+**Thoughts:** 
+LC session!
+I'm just solving puzzles (CG, LC) recently! As I will have more time this weekend, I will work on my portfolio and complete the Docker training!
