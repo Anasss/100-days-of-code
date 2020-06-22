@@ -152,7 +152,7 @@ A CG classic COC session!
 LC session!
 I'm just solving puzzles (CG, LC) recently! As I will have more time this weekend, I will work on my portfolio and complete the Docker training!
 
-### Day 12: June 20, 2020
+### Day 13: June 20, 2020
 
 **Today's Progress**:
 A pramp interview (https://www.pramp.com/dashboard#/)
@@ -161,7 +161,7 @@ A pramp interview (https://www.pramp.com/dashboard#/)
 **Thoughts:** 
 Hard dynamic programming problem, I couldn't code a working solution even with some hints from a very cool interviewer!
 
-### Day 12: June 21, 2020
+### Day 14: June 21, 2020
 
 **Today's Progress**:
 * - [] LeetCode! CG Instead  
