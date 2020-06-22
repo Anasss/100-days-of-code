@@ -160,3 +160,12 @@ A pramp interview (https://www.pramp.com/dashboard#/)
 
 **Thoughts:** 
 Hard dynamic programming problem, I couldn't code a working solution even with some hints from a very cool interviewer!
+
+### Day 12: June 21, 2020
+
+**Today's Progress**:
+* - [] LeetCode! CG Instead  
+
+**Thoughts:** 
+CG session! A shortes path related and a DP problem!
+I couldn't complete the docker training, I'll need to do it before Friday, since the LI license is going to expire!
