@@ -178,3 +178,20 @@ I couldn't complete the docker training, I'll need to do it before Friday, since
 **Thoughts:** 
 Another CG session!
 Actually CG games are more fun than LC due to the context and the graphics! 
+
+### Day 15: June 23, 2020
+
+**Today's Progress**:
+* - [] LeetCode! No LC today
+
+**Thoughts:** 
+I used this hour to continue the interesting dev I'm working on currently at work! However,  I'll stop using this time for work related stuff!
+
+### Day 16: June 24, 2020
+
+**Today's Progress**:
+Docker training | Progress: https://www.linkedin.com/learning/learning-docker-2/container-networking?u=75507506
+* - [] LeetCode! No LC today
+
+**Thoughts:** 
+Getting familiar with docker images and building one for a sample spring project: https://github.com/Anasss/sampleJavaMicroservice/blob/master/Dockerfile
