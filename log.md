@@ -210,7 +210,8 @@ I will have to be consistent! Lately, I have not respected my rule of: at least 
 
 **Today's Progress**:
 First contribution https://github.com/quran/quran.com-frontend-next/pull/42
-* - [] LeetCode!
+* - [X] LeetCode! 
 
 **Thoughts:** 
+Struggled to resolve an easy LC challenge & looking forward to code with TS & discover next.js!
 
