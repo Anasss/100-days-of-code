@@ -195,3 +195,22 @@ Docker training | Progress: https://www.linkedin.com/learning/learning-docker-2/
 
 **Thoughts:** 
 Getting familiar with docker images and building one for a sample spring project: https://github.com/Anasss/sampleJavaMicroservice/blob/master/Dockerfile
+
+### Day 17: June 25, 2020
+
+**Today's Progress**:
+Setting up an open source project locally: https://github.com/quran/quran.com-frontend-next
+* - [] LeetCode! No LC today
+
+**Thoughts:** 
+Discovering and Setting up the project locally, interesting front tech stack!
+I will have to be consistent! Lately, I have not respected my rule of: at least one LC per code. I should take the time to make at least one easy/medium!
+
+### Day 18: June 25, 2020
+
+**Today's Progress**:
+First contribution https://github.com/quran/quran.com-frontend-next/pull/42
+* - [] LeetCode!
+
+**Thoughts:** 
+
