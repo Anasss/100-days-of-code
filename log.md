@@ -28,7 +28,7 @@ the challenge remains the same, I will update this page every day with my progre
 
 **Today's Progress**:
 * Started Docker course on LI, install it and started playing a bit with it! Chapter 2 so far! https://www.linkedin.com/learning/learning-docker-2/the-docker-flow-containers-to-images?u=75507506
-* - [x] LeetCode
+* [x] LeetCode
 
 **Thoughts:** 
 It's probably better to do it early in the morning as I was a bit tired after work!
@@ -38,7 +38,7 @@ I displayed both hints to solve the leetcode, I should take more time before usi
 
 **Today's Progress**:
 * A full leetCode session, solved 4!
-* - [x] LeetCode
+* [x] LeetCode
 
 **Thoughts:** 
 4 easy problems, including 2 well optimized solutions.
@@ -49,7 +49,7 @@ Felt bad not working on my portfolio, I'll need to finish it in the first part o
 
 **Today's Progress**:
 * Worked on my protfolio!
-* - [x] LeetCode
+* [x] LeetCode
 
 **Thoughts:** 
 I still some fixes/features before having a first clean version as I imagine it!
@@ -61,7 +61,7 @@ I should pick more hard problems on leetCode!
 **Today's Progress**:
 * Worked on my protfolio!
 * Started reading the prgamatic programmer
-* - [x] LeetCode
+* [x] LeetCode
 
 **Thoughts:** 
 The pragmatic programmer is an interesting read, looking forward to discovering more!
@@ -71,7 +71,7 @@ Spent 25 minutes(Pomodoro technique) on a leetcode problem (Still not solved)
 
 **Today's Progress**:
 * LeetCode session
-* - [x] LeetCode
+* [x] LeetCode
 
 **Thoughts:** 
 Solved an easy leetCode and stuck for almost 30 min in this one : https://leetcode.com/problems/count-and-say/
@@ -81,7 +81,7 @@ In the easy category, however, it was hard for me to understand the problem, too
 
 **Today's Progress**:
 * Pramp session
-* - [x] LeetCode (using Pramp)
+* [x] LeetCode (using Pramp)
 
 **Thoughts:** 
 Discovered Pramp (https://www.pramp.com/dashboard#/)
@@ -91,7 +91,7 @@ I enjoyed interviewing and being interviewed by another software engineer. I'll 
 
 **Today's Progress**:
 * Pramp session
-* - [x] LeetCode (using Pramp)
+* [x] LeetCode (using Pramp)
 
 **Thoughts:** 
 Another pramp session (https://www.pramp.com/dashboard#/)
@@ -101,7 +101,7 @@ What I also like about pramp is receiving feedback from the interviewer at the e
 
 **Today's Progress**:
 * Pramp session
-* - [x] LeetCode (using Pramp)
+* [x] LeetCode (using Pramp)
 
 **Thoughts:** 
 Another pramp session (https://www.pramp.com/dashboard#/)
@@ -118,7 +118,7 @@ Some tips to improve coding speed: http://blog.gainlo.co/index.php/2016/08/01/im
 
 **Today's Progress**:
 * 3 Clashs of code and started a CG puzzle!
-* - [x] LeetCode -> Not solved
+* [x] LeetCode -> Not solved
 
 **Thoughts:** 
 A clash of code session and I started a CG puzzle! 
@@ -128,7 +128,7 @@ A bit unmotivated to code today but I really wanted to complete this challenge s
 
 **Today's Progress**:
 * CG CoC
-* - [x] LeetCode
+* [x] LeetCode
 
 **Thoughts:** 
 A CG classic COC session!
@@ -137,7 +137,7 @@ A CG classic COC session!
 
 **Today's Progress**:
 * CG CoC
-* - [ ] LeetCode -> No time for a LC today! 
+* [ ] LeetCode -> No time for a LC today! 
 
 **Thoughts:** 
 A CG classic COC session!
@@ -146,7 +146,7 @@ A CG classic COC session!
 
 **Today's Progress**:
 * LeetCode session!
-* - [X] LeetCode  
+* [X] LeetCode  
 
 **Thoughts:** 
 LC session!
@@ -156,7 +156,7 @@ I'm just solving puzzles (CG, LC) recently! As I will have more time this weeken
 
 **Today's Progress**:
 A pramp interview (https://www.pramp.com/dashboard#/)
-* - [X] LeetCode  
+* [X] LeetCode  
 
 **Thoughts:** 
 Hard dynamic programming problem, I couldn't code a working solution even with some hints from a very cool interviewer!
@@ -164,7 +164,7 @@ Hard dynamic programming problem, I couldn't code a working solution even with s
 ### Day 14: June 21, 2020
 
 **Today's Progress**:
-* - [] LeetCode! CG Instead  
+* [] LeetCode! CG Instead  
 
 **Thoughts:** 
 CG session! A shortes path related and a DP problem!
@@ -173,7 +173,7 @@ I couldn't complete the docker training, I'll need to do it before Friday, since
 ### Day 14: June 22, 2020
 
 **Today's Progress**:
-* - [] LeetCode! CG Instead  
+* [] LeetCode! CG Instead  
 
 **Thoughts:** 
 Another CG session!
@@ -182,7 +182,7 @@ Actually CG games are more fun than LC due to the context and the graphics!
 ### Day 15: June 23, 2020
 
 **Today's Progress**:
-* - [] LeetCode! No LC today
+* [] LeetCode! No LC today
 
 **Thoughts:** 
 I used this hour to continue the interesting dev I'm working on currently at work! However,  I'll stop using this time for work related stuff!
@@ -191,7 +191,7 @@ I used this hour to continue the interesting dev I'm working on currently at wor
 
 **Today's Progress**:
 Docker training | Progress: https://www.linkedin.com/learning/learning-docker-2/container-networking?u=75507506
-* - [] LeetCode! No LC today
+* [] LeetCode! No LC today
 
 **Thoughts:** 
 Getting familiar with docker images and building one for a sample spring project: https://github.com/Anasss/sampleJavaMicroservice/blob/master/Dockerfile
@@ -200,7 +200,7 @@ Getting familiar with docker images and building one for a sample spring project
 
 **Today's Progress**:
 Setting up an open source project locally: https://github.com/quran/quran.com-frontend-next
-* - [] LeetCode! No LC today
+* [] LeetCode! No LC today
 
 **Thoughts:** 
 Discovering and Setting up the project locally, interesting front tech stack!
@@ -210,7 +210,7 @@ I will have to be consistent! Lately, I have not respected my rule of: at least 
 
 **Today's Progress**:
 First contribution https://github.com/quran/quran.com-frontend-next/pull/42
-* - [X] LeetCode! 
+* [X] LeetCode! 
 
 **Thoughts:** 
 Struggled to resolve an easy LC challenge & looking forward to code with TS & discover next.js!
@@ -219,7 +219,7 @@ Struggled to resolve an easy LC challenge & looking forward to code with TS & di
 
 **Today's Progress**:
 Clash of codes CG
-* - [X] LeetCode! 
+* [X] LeetCode! 
 
 **Thoughts:** 
 CG clash of code session and discovered an interesting blog https://fs.blog/smart-decisions/
