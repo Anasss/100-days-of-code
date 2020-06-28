@@ -206,7 +206,7 @@ Setting up an open source project locally: https://github.com/quran/quran.com-fr
 Discovering and Setting up the project locally, interesting front tech stack!
 I will have to be consistent! Lately, I have not respected my rule of: at least one LC per code. I should take the time to make at least one easy/medium!
 
-### Day 18: June 25, 2020
+### Day 18: June 26, 2020
 
 **Today's Progress**:
 First contribution https://github.com/quran/quran.com-frontend-next/pull/42
@@ -214,4 +214,25 @@ First contribution https://github.com/quran/quran.com-frontend-next/pull/42
 
 **Thoughts:** 
 Struggled to resolve an easy LC challenge & looking forward to code with TS & discover next.js!
+
+### Day 19: June 27, 2020
+
+**Today's Progress**:
+Clash of codes CG
+* - [X] LeetCode! 
+
+**Thoughts:** 
+CG clash of code session and discovered an interesting blog https://fs.blog/smart-decisions/
+
+### Day 20: June 28, 2020
+
+**Today's Progress**:
+Created a PR to fix an issue on the CI pipeline : https://github.com/quran/quran.com-frontend-next/pull/51
+Read a chapter from the pragmatic programmer!
+* [ ] LeetCode! 
+
+**Thoughts:** 
+Discovering some git commands and options, there is a lot that we can do with GH actions! 
+Very interesting read, the PP is a must-read by all the IT professionals and not only devs, looking forward to reading more!
+
 
