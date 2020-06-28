@@ -137,7 +137,7 @@ A CG classic COC session!
 
 **Today's Progress**:
 * CG CoC
-* [ ] LeetCode -> No time for a LC today! 
+* [ ] LeetCode
 
 **Thoughts:** 
 A CG classic COC session!
@@ -164,7 +164,7 @@ Hard dynamic programming problem, I couldn't code a working solution even with s
 ### Day 14: June 21, 2020
 
 **Today's Progress**:
-* [] LeetCode! CG Instead  
+* [ ] LeetCode! CG Instead  
 
 **Thoughts:** 
 CG session! A shortes path related and a DP problem!
@@ -173,7 +173,7 @@ I couldn't complete the docker training, I'll need to do it before Friday, since
 ### Day 14: June 22, 2020
 
 **Today's Progress**:
-* [] LeetCode! CG Instead  
+* [ ] LeetCode! CG Instead  
 
 **Thoughts:** 
 Another CG session!
@@ -182,7 +182,7 @@ Actually CG games are more fun than LC due to the context and the graphics!
 ### Day 15: June 23, 2020
 
 **Today's Progress**:
-* [] LeetCode! No LC today
+* [ ] LeetCode!
 
 **Thoughts:** 
 I used this hour to continue the interesting dev I'm working on currently at work! However,  I'll stop using this time for work related stuff!
@@ -191,7 +191,7 @@ I used this hour to continue the interesting dev I'm working on currently at wor
 
 **Today's Progress**:
 Docker training | Progress: https://www.linkedin.com/learning/learning-docker-2/container-networking?u=75507506
-* [] LeetCode! No LC today
+* [] LeetCode!
 
 **Thoughts:** 
 Getting familiar with docker images and building one for a sample spring project: https://github.com/Anasss/sampleJavaMicroservice/blob/master/Dockerfile
@@ -200,7 +200,7 @@ Getting familiar with docker images and building one for a sample spring project
 
 **Today's Progress**:
 Setting up an open source project locally: https://github.com/quran/quran.com-frontend-next
-* [] LeetCode! No LC today
+* [ ] LeetCode! 
 
 **Thoughts:** 
 Discovering and Setting up the project locally, interesting front tech stack!
