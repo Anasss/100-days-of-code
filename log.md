@@ -235,4 +235,21 @@ Read a chapter from the pragmatic programmer!
 Discovering some git commands and options, there is a lot that we can do with GH actions! 
 Very interesting read, the PP is a must-read by all the IT professionals and not only devs, looking forward to reading more!
 
+### Day 21: June 29, 2020
 
+**Today's Progress**:
+Attended Spring One conf about CI/CD piepline using Kubernetes
+* [ ] LeetCode! 
+
+**Thoughts:** 
+Very interesting & smooth conf, as a practice exercice for the future I can set-up a little microservice environement and put in place Docker + Kubernetes!
+
+### Day 22: June 30, 2020
+
+**Today's Progress**:
+I missed day 2 of spring one conf :(
+* [X] LeetCode! 
+
+**Thoughts:** 
+1 LC, it's always interesting to check the other well optimized solutions! 
+I also took some time to write some UT and discovering code coverage plugins in Intellij!
