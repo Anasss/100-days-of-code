@@ -253,3 +253,16 @@ I missed day 2 of spring one conf :(
 **Thoughts:** 
 1 LC, it's always interesting to check the other well optimized solutions! 
 I also took some time to write some UT and discovering code coverage plugins in Intellij!
+
+### Day 23: July 1, 2020
+
+**Today's Progress**:
+Mainly Writing unit tests and brainstorming some ideas for my portfolio
+* [ ] LeetCode! 
+
+### Day 24: July 2, 2020
+
+**Today's Progress**:
+Used this hour for work today (I had to break my old rule) in some interesting stuff though!
+* [ ] LeetCode!
+
