@@ -269,7 +269,9 @@ Used this hour for work today (I had to break my old rule) in some interesting s
 ### Day 25: July 3, 2020
 
 **Today's Progress**:
-One LC and Reading the PM https://learning.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/f_0020.xhtml
-Don’t leave “broken windows’’ (bad designs, wrong decisions, or poor code) unrepaired. Fix each one as soon as it is discovered
 * [x] LeetCode!
+One LC and Reading the PM https://learning.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/f_0020.xhtml.</br>
+PM when talking about technical debt:
+* Don’t leave “broken windows’’ (bad designs, wrong decisions, or poor code) unrepaired. Fix each one as soon as it is discovered
+
 
