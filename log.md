@@ -282,3 +282,12 @@ Worked on my personal website
 
 **Thoughts:**
 Used typed.js, changed the CSS and added a better resume description. It starts to become cleaner and nicer! Looking forward to complete it!
+
+### Day 27: July 5, 2020
+
+**Today's Progress**:
+Continued working on my personal website
+* [ ] LeetCode!
+
+**Thoughts:**
+Education and work experience section almost completed! Still projects and fun facts section to complete as well! 
