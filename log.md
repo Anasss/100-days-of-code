@@ -274,4 +274,11 @@ One LC and Reading the PM https://learning.oreilly.com/library/view/the-pragmati
 PM when talking about technical debt:
 * Don’t leave “broken windows’’ (bad designs, wrong decisions, or poor code) unrepaired. Fix each one as soon as it is discovered
 
+### Day 26: July 4, 2020
 
+**Today's Progress**:
+Worked on my personal website
+* [ ] LeetCode!
+
+**Thoughts:**
+Used typed.js, changed the CSS and added a better resume description. It starts to become cleaner and nicer! Looking forward to complete it!
