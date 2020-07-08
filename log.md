@@ -291,3 +291,16 @@ Continued working on my personal website
 
 **Thoughts:**
 Education and work experience section almost completed! Still projects and fun facts section to complete as well! 
+
+### Day 27: July 6, 2020
+
+**Today's Progress**:
+Continued working on my personal website
+* [ ] LeetCode!
+
+### Day 27: July 7, 2020
+
+**Today's Progress**:
+Continued working on my personal website
+* [ ] LeetCode!
+
