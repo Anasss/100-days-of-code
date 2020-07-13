@@ -304,15 +304,28 @@ Continued working on my personal website
 Continued working on my personal website
 * [ ] LeetCode!
 
-### Day 29: July 8, 2020
+### Day 30: July 8, 2020
 
 **Today's Progress**:
 Another hour dedicated for my website!
 * [ ] LeetCode!
 
-### Day 29: July 9, 2020
+### Day 31: July 9, 2020
 
 **Today's Progress**:
 I started teaching HTML and CSS to my little bros, gave them the first homework and I'm already proud of what they completed!
 I'll track their progress here https://github.com/Anasss/HTMLHomeworkForKids
 * [ ] LeetCode!
+
+### Day 32: July 10, 2020
+
+**Today's Progress**:
+Helping Adam & Ilyass diving into html & css + reading the PM!
+* [ ] LeetCode!
+
+### Day 33: July 11, 2020
+
+**Today's Progress**:
+Continued working on my Website
+* [ ] LeetCode!
+
