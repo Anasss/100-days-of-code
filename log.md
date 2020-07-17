@@ -329,7 +329,7 @@ Helping Adam & Ilyass diving into html & css + reading the PM!
 Continued working on my Website
 * [ ] LeetCode!
 
-### Day 38: July 16, 2020
+### Day 34: July 16, 2020
 
 **Today's Progress**:
 Reading 2 chapters of the PM
